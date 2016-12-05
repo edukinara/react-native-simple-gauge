@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/nerdyfactory/react-native-simple-gauge",
   "dependencies": {
-    "art": "^0.10.0"
+    "art": "^0.10.1"
   }
 }
